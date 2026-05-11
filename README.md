@@ -108,14 +108,12 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohidraheel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohidraheel&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+![](https://img.shields.io/badge/Total%20Contributions-186-00d9ff?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Longest%20Streak-3%20days-00d9ff?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Public%20Repos-6+-00d9ff?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohidraheel&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888&sideNums=ffffff&currStreakNum=00D9FF" alt="GitHub Streak" />
+[![GitHub followers](https://img.shields.io/github/followers/Mohidraheel?style=for-the-badge&logo=github&logoColor=white&color=00d9ff&label=Followers)](https://github.com/Mohidraheel)
+[![GitHub stars](https://img.shields.io/github/stars/Mohidraheel?style=for-the-badge&logo=github&logoColor=white&color=00d9ff&label=Total%20Stars)](https://github.com/Mohidraheel)
 
 </div>
 
