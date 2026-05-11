@@ -1,17 +1,31 @@
-👋 Hi, I’m @Mohidraheel
+# Hi 👋, I'm Mohid Raheel
 
-👀 I’m interested in coding and gaming
+## Computer Science Student | Software Developer | ML Enthusiast
 
-🌱 I’m currently learning Machine Learning and pursuing a BS in Computer Science at the National University of Computer and Emerging Sciences (FAST)
+💻 Passionate about:
+- Full Stack Development
+- Machine Learning
+- Python & C++
+- Networking Systems
+- Problem Solving
 
-💻 I’ve completed courses in SQL, C, C++, and Python
+🚀 Currently working on:
+- AI & ML projects
+- Web applications
+- Semester-based software systems
 
-💞️ I’m looking to collaborate on ML projects, open-source contributions, or anything that sharpens my skills
+🛠 Tech Stack:
+Python • C++ • JavaScript • React • SQL • Git • Linux
 
-📫 How to reach me: mohid.raheel12@gmail.com
+📫 Contact:
+- Email: mohid.raheel12@gmail.com
+- LinkedIn: https://linkedin.com/in/mohid-raheel-a83a05250
 
-💼 Connect with me on https://www.linkedin.com/in/mohid-raheel-a83a05250/
+⚡ Fun fact:
+I enjoy debugging complex systems and building practical software solutions.
 
-😄 Pronouns: he/him
+![Mohid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohidraheel&show_icons=true&theme=tokyonight)
 
-⚡ Fun fact: I can debug code faster than I can write it 😄
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohidraheel&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mohidraheel&theme=tokyonight)
