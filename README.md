@@ -58,14 +58,24 @@ me.say_hi()
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Frameworks & Backend**
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 **Tools & Platforms**
 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **ML / Data**
 
@@ -85,10 +95,10 @@ me.say_hi()
 |--------|-------------|-------|
 | 🌐 [Intelligent Network Management](https://github.com/Mohidraheel/Intelligent-network-management) | 5th semester Computer Networks project | `Python` |
 | 🏥 [Medical Diagnosis System](https://github.com/Mohidraheel/Medical-Diagnosis-System) | AI-assisted medical diagnosis tool | `Python` |
-| 📦 [E-Stock App](https://github.com/Mohidraheel/E-Stock-App) | Stock management application | — |
-| 🚌 [FAST Transport SE Project](https://github.com/Mohidraheel/Fast-Transport-Se-project) | Software engineering transport project | — |
-| ⬇️ [Internet Download Manager](https://github.com/Mohidraheel/Internet-Download-Manager) | Custom download manager | — |
-| 🎨 [Pixel Art Generator](https://github.com/Mohidraheel/Pixel-Art-Generator) | Generate pixel art programmatically | — |
+| 📈 [E-Stock App](https://github.com/Mohidraheel/E-Stock-App) | Full-stack stock trading & portfolio platform with wallets, dividends, futures | `C#` `ASP.NET Core` `EF Core` `SQL Server` `Bootstrap` |
+| 🚌 [FAST Transport System](https://github.com/Mohidraheel/Fast-Transport-Se-project) | University transport management with real-time bus tracking, OTP auth & seat allocation | `Django` `React` `Vite` `Docker` `PostgreSQL` |
+| ⬇️ [Internet Download Manager](https://github.com/Mohidraheel/Internet-Download-Manager) | Multi-threaded download manager built from scratch in pure C | `C` |
+| 🎨 [Pixel Art Generator](https://github.com/Mohidraheel/Pixel-Art-Generator) | Custom DSL compiler (lexer → parser → IR → optimizer → codegen) that renders pixel art scenes | `C++` `Compiler Design` |
 
 </div>
 
@@ -99,14 +109,13 @@ me.say_hi()
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohidraheel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohidraheel&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mohidraheel&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohidraheel&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888&sideNums=ffffff&currStreakNum=00D9FF" alt="GitHub Streak" />
 
 </div>
 
